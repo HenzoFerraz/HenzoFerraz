@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0E99&height=120&section=header"/>
 &nbsp;&nbsp;&nbsp;
-<p align="center">Oi meu nome é Henzo Martins Ferraz.</p>&nbsp;
 
-<p align="center">Desde que me interessei na área da programação, estudo diariamente para conseguir a minha
+## Olá! Eu sou Henzo Martins Ferraz.
+<br>
+<p>Desde que me interessei na área da programação, estudo diariamente para conseguir a minha
 primeira oportunidade. Venho fazendo cursos e estudando para colocar em prática
 todo o meu conhecimento e tenho a certeza que estou pronto para somar na sua equipe de
 programadores. Busco me aprimorar cada vez mais, tenho facilidade de aprendizado, força de
