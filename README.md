@@ -25,7 +25,7 @@ vontade e boa comunicação.</p>&nbsp;
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-008000?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-006400?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
 
 &nbsp;
@@ -36,7 +36,7 @@ vontade e boa comunicação.</p>&nbsp;
 <div> 
 <a href = "mailto:contato.henzoferraz@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/henzo-ferraz-970491285" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-<a href="https://wa.me/5511981524909" target="_blank"><img src="https://img.shields.io/badge/whatsapp-000000%7D?style=for-the-badge&logo=whatsapp&logoColor=white"  target="_blank"></a> 
+<a href="https://wa.me/5511981524909" target="_blank"><img src="https://img.shields.io/badge/whatsapp-228B22?style=for-the-badge&logo=whatsapp&logoColor=white"  target="_blank"></a> 
 </div>
 
 &nbsp;
